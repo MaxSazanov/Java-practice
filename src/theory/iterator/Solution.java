@@ -1,4 +1,4 @@
-package theory.collections;
+package theory.iterator;
 
 import java.util.Iterator;
 import java.util.LinkedList;
