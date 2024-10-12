@@ -1,0 +1,6 @@
+окт. 07, 2024 8:21:50 PM theory.comparableAndComparator.Solution main
+INFO: loop has started
+окт. 07, 2024 8:21:53 PM theory.comparableAndComparator.Solution main
+INFO: loop has ended
+окт. 07, 2024 8:21:53 PM theory.comparableAndComparator.Solution main
+INFO: sorting has ended
