@@ -10,7 +10,7 @@ import java.util.logging.*;
 import java.util.regex.Pattern;
 
 public class Solution {
-    static private final Logger logger = Logger.getLogger(Solution.class.getName());
+    private static final Logger logger = Logger.getLogger(Solution.class.getName());
 
     static {
         try {
